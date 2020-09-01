@@ -10,7 +10,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gumxXrVdxIoJXeVBlVL93OvxY7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598973098757</updated>
-      <workItem from="1598973099849" duration="430000" />
+      <workItem from="1598973099849" duration="587000" />
     </task>
     <servers />
   </component>
@@ -43,6 +47,14 @@
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
     <state x="2109" y="1019" key="Github.CreateGistDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1598973497291" />
+    <state x="2170" y="998" key="Github.ShareDialog" timestamp="1598973590204">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2170" y="998" key="Github.ShareDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1598973590204" />
+    <state x="2091" y="805" key="Github.UntrackedFilesDialog" timestamp="1598973599516">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2091" y="805" key="Github.UntrackedFilesDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1598973599516" />
     <state x="2114" y="1023" key="NewPhpFileDialog" timestamp="1598973185808">
       <screen x="0" y="0" width="3840" height="2120" />
     </state>
