@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c13be20-db58-46d9-a92b-c477b867c8dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1gumxXrVdxIoJXeVBlVL93OvxY7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\16330\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c13be20-db58-46d9-a92b-c477b867c8dd" name="Default Changelist" comment="" />
+      <created>1598973098757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598973098757</updated>
+      <workItem from="1598973099849" duration="430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2109" y="1019" key="Github.CreateGistDialog" timestamp="1598973497291">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2109" y="1019" key="Github.CreateGistDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1598973497291" />
+    <state x="2114" y="1023" key="NewPhpFileDialog" timestamp="1598973185808">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="2114" y="1023" key="NewPhpFileDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1598973185808" />
+    <state x="1591" y="256" key="SettingsEditor" timestamp="1598973472489">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="1591" y="256" key="SettingsEditor/0.0.3840.2120@0.0.3840.2120" timestamp="1598973472489" />
+  </component>
+</project>
